@@ -7,5 +7,5 @@ Acesso o site aqui: https://www.mtadvogados.com.br/
 
 Tecnologias Utilizadas:
 
-Frontend: HTML5, CSS3, JavaScript
+Frontend: HTML5, CSS3, JavaScript  
 Backend: Node.js
